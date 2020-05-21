@@ -13,6 +13,7 @@ Na moje zadanie som spravil deployment za pomoci GitHub pages tutorialu:
 7. GitHub mi nasledne vygeneroval link kde je rss reader deploynuty
 
 Stranka na Github: https://github.com/Rudyomega/wpub_deployment_project
+
 Stranka na deploynutu RSS citacku: https://rudyomega.github.io/wpub_deployment_project/
  
 Pre pouzite akcie sa mozete pozriet do \.github\workflows\actions.yml suboru
